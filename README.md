@@ -1,2 +1,2 @@
-# esp32-8051-uart-communication
-ESP32與8051單片機UART雙向通訊專案
+# Dashboard-ESP32-8051-communication
+Dashboard-ESP32-8051雙向通訊系統
